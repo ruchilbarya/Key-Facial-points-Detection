@@ -6,7 +6,7 @@ _A Deep learning and CNN (Convolutional Neural Network) project_
 ## Summary
 
 * The Model achieved an accuracy of 70% which can be increased if we decrease the batch size and increase the iterations.
-* Originally, the dataset has few images so data Augmentation has been used to increase the dataset. 
+* Originally, the dataset had few images so data Augmentation has been used to increase the dataset. 
 * Data augmentation involves increasing and decreasing the brightness, zooming in of the images,flipping around vertical axis. 
 * The Model struggles to provide accurate results on the side face.
 
