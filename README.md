@@ -23,4 +23,4 @@ The Data set consists of x and y coordinates of 15 facial key points. Input imag
 Files in this repo:
 * **Keypoint_code.ipynb**: a Jupyter Notebook containing project code.
 
-The Resnet portion of this project was inspired by [Coursera](https://www.coursera.org/learn/facial-key-point-detection/)
+The Resnet portion of this project was inspired by [Coursera](https://www.coursera.org/learn/facial-key-point-detection/) Course.
